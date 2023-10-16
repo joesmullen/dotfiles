@@ -53,6 +53,7 @@ vim.cmd("colorscheme gruvbox")
 require("nvim-autopairs").setup()
 require("mason").setup()
 require("mason-lspconfig").setup()
+require("ibl").setup()
 
 -- lsp setup
 local lspconfig = require("lspconfig")

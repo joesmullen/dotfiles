@@ -58,7 +58,7 @@ require("ibl").setup()
 -- lsp setup
 local lspconfig = require("lspconfig")
 local capabilities = require("cmp_nvim_lsp").default_capabilities()
-local servers = { "jdtls", "pyright", "tsserver", "lua_ls" }
+local servers = { "jdtls", "pyright", "tsserver", "lua_ls", "clangd" }
 
 for _, server in ipairs(servers) do
     lspconfig[server].setup({

@@ -11,10 +11,14 @@
 # aliases
 alias vi="nvim"
 alias q="exit 0"
+alias c="clear"
 alias ls="ls -lh --color=auto"
 alias la="ls -a"
+alias src="source ~/.bashrc"
+alias del="rm ~/.bash_history"
 alias vimconf="vi ~/.config/nvim/init.lua"
 alias listkeys="gpg2 --list-keys --keyid-format=long"
+alias fwup="fwupdmgr get-updates"
 alias showmac="macchanger -s wlp3s0"
 
 # environment variables

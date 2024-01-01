@@ -1,7 +1,5 @@
-# 📁 dotfiles
+# 📁 Dotfiles
 
-These are my dotfiles for Fedora Linux. Feel free to use them if you want.
+## ➡️ Moved to Codeberg: https://codeberg.org/jpsmullen/dotfiles
 
-# 📄 licence
-
-[MPL v2.0](https://www.mozilla.org/en-US/MPL/2.0/).
+Apologies for any inconvenience this may cause.
